@@ -1,0 +1,11 @@
+# Terraform state
+terraform.tfstate
+terraform.tfstate.backup
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+
+# Terraform working directory
+terraform/.terraform/
+
+# OS files
+.DS_Store
